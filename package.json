@@ -1,7 +1,7 @@
 {
   "name": "auth-ii-guided",
   "version": "1.0.0",
-  "description": "Authentication Sprint Guided Project",
+  "description": "Authentication Sprint Challenge",
   "main": "index.js",
   "scripts": {
     "server": "nodemon",
