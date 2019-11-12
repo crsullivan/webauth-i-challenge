@@ -18,6 +18,6 @@ The client sends the cookies in a _Cookie_ header back to the server.
 
 ## Sessions
 
-- like a database.
+- like a database. see below
 - used to store data on the server, much like a database.
 
