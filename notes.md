@@ -21,3 +21,4 @@ The client sends the cookies in a _Cookie_ header back to the server.
 - like a database. see below
 - used to store data on the server, much like a database.
 
+*for PR*
